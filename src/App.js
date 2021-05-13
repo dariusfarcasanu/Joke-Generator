@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Chuck from './img/chuck.png';
 
-const API_URL = 'http://api.icndb.com/jokes/random';
+const API_URL = 'https://api.icndb.com/jokes/random';
 
 function App() {
   const [joke, setJoke] = useState('');

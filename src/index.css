@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background-color: #8ab6d6;
+  background-color: #c6ffc1;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .box button {
   border: 0;
-  background-color: #50a2dd;
+  background-color: #f5b05b;
   border-radius: 20px;
   padding: 0.8rem 2rem;
   transition: transform 0.2s ease-in;
@@ -54,10 +54,10 @@ body {
 }
 
 .box button:hover {
-  border: 1px solid #50a2dd;
-  color: #50a2dd;
+  border: 1px solid #f5b05b;
+  color: #111;
   background-color: #f4eee8;
-  transform: scale(0.9);
+  transform: scale(0.95);
 }
 
 .box button:focus {
